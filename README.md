@@ -8,7 +8,6 @@
 `typescript` . `react` . `python` . `PHP` . `Figma`
 
 <br>
-
 ### И Н С Т Р У М Е Н Т Ы
 `VS Code` · `Git` · `Notion` · `Mac`
 
