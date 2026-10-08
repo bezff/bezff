@@ -5,7 +5,7 @@
 ### Т Е Х Н О Л О Г И И
 
 <!-- Раздел Разработки -->
-`typescript` . `react` . `python` . `PHP` . `Figma`
+`typescript` . `react` . `python` . `Figma`
 
 <br>
 
