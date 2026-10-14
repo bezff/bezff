@@ -1,31 +1,47 @@
+
 <div align="center">
 
-# Старицын Вячеслав 
+# Viacheslav Staritsyn
 
-### Т Е Х Н О Л О Г И И
+**Web & Graphic Designer · Full-Stack Developer**
 
-<!-- Раздел Разработки -->
-`typescript` . `react` . `python` . `Figma`
+I turn ideas into digital products — from visual concepts to working applications.
 
-<br>
+[Portfolio](https://starfolio.app) · [Telegram](https://t.me/Bezff) · [MAX](https://clck.ru/3WUscr)
 
-### И Н С Т Р У М Е Н Т Ы
-`VS Code` · `Git` · `Notion` · `Mac`
+</div>
 
-<br>
+---
 
-<a href="https://starfolio.app">
-  <img src="https://img.shields.io/badge/СМОТРЕТЬ_ПОРТФОЛИО-FFFFFF" />
-</a>
+### About me
 
-<br>
-<br>
+I work across web design, graphic design, frontend and backend development.
 
-<a href="https://t.me/Bezff">
-<img src="https://img.shields.io/badge/telegram-000000?style=flat&logo=telegram&logoColor=white" />
-</a>
-<a href="mailto:viacheslav.staricin@portfolio.ru">
-<img src="https://img.shields.io/badge/email-000000?style=flat&logo=gmail&logoColor=white" />
-</a>
+I enjoy building thoughtful interfaces and bringing projects to life from concept to implementation.
+
+### What I do
+
+- **Design:** Web Design, UI/UX, Graphic Design
+- **Frontend:** Interfaces and Web Applications
+- **Backend:** APIs, Server-Side Logic and Data
+
+### Core stack
+
+`TypeScript` · `React` · `Node.js` · `Express`
+
+`Python` · `PHP` · `SQLite` · `Figma`
+
+### Selected projects
+
+- **[DSGN Sense — Interactive Map](https://github.com/bezff/dsgn-sense-2026-map)** — Interactive map built with React, TypeScript, Express and SQLite.
+- **[Simple Telegram Blog](https://github.com/bezff/Simple-Telegram-Blog-PHP)** — Lightweight PHP blog managed through a Telegram bot.
+
+---
+
+<div align="center">
+
+**Design & code, from idea to implementation.**
+
+[starfolio.app](https://starfolio.app)
 
 </div>
