@@ -25,11 +25,24 @@ I enjoy building thoughtful interfaces and bringing projects to life from concep
 - **Frontend:** Interfaces and Web Applications
 - **Backend:** APIs, Server-Side Logic and Data
 
-### Core stack
 
-`TypeScript` · `React` · `Node.js` · `Express`
+### Tech Stack
 
-`Python` · `PHP` · `SQLite` · `Figma`
+**Design**  
+Figma · Canva
+
+**Frontend**  
+HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
+
+**Backend**  
+Node.js · NestJS · Python · FastAPI · REST API
+
+**Databases**  
+PostgreSQL · MySQL · Redis
+
+**Tools**  
+Git · Docker · GitHub Actions · VS Code
+
 
 ### Selected projects
 
