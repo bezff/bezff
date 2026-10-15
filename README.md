@@ -49,7 +49,7 @@ Git · Docker · GitHub Actions · VS Code
 - **[DSGN Sense — Interactive Map](https://github.com/bezff/dsgn-sense-2026-map)** — Interactive map built with React, TypeScript, Express and SQLite.
 - **[Simple Telegram Blog](https://github.com/bezff/Simple-Telegram-Blog-PHP)** — Lightweight PHP blog managed through a Telegram bot.
 
-Open source contributions
+###Open source contributions
 
 * Effect — Fixed SQL migration imports for React Native Metro compatibility. (Merged)
 * Hoppscotch — Proposed backend access controls to protect team data from pending invitees. (Open PR)
