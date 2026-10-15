@@ -53,9 +53,10 @@ I enjoy taking projects from initial concepts to working products and contributi
 
 ### Open Source Contributions
 
-- **[Effect](https://github.com/Effect-TS/effect)** - [PR #9157](https://github.com/Effect-TS/effect/pull/9157) · [PR #9248](https://github.com/Effect-TS/effect/pull/9248)
+- **[Effect](https://github.com/Effect-TS/effect)** - [PR #9157](https://github.com/Effect-TS/effect/pull/9157) · [PR #9248](https://github.com/Effect-TS/effect/pull/9248) · [PR #9249](https://github.com/Effect-TS/effect/pull/9249)
 - **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** - [PR #6719](https://github.com/hoppscotch/hoppscotch/pull/6719)
 - **[FastAPI Cache](https://github.com/long2ice/fastapi-cache)** - [PR #576](https://github.com/long2ice/fastapi-cache/pull/576)
+
 
 ---
 
