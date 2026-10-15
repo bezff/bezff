@@ -15,16 +15,15 @@ I turn ideas into digital products — from visual concepts to working applicati
 
 ### About me
 
-I work across web design, graphic design, frontend and backend development.
+I work at the intersection of design and development, creating interfaces and building the systems behind them.
 
-I enjoy building thoughtful interfaces and bringing projects to life from concept to implementation.
+I enjoy taking projects from an initial concept to a working product and contributing fixes to open-source software.
 
 ### What I do
 
 - **Design:** Web Design, UI/UX, Graphic Design
-- **Frontend:** Interfaces and Web Applications
-- **Backend:** APIs, Server-Side Logic and Data
-
+- **Frontend:** Interactive Interfaces, Web Applications
+- **Backend:** APIs, Server-Side Logic, Databases
 
 ### Tech Stack
 
@@ -32,27 +31,23 @@ I enjoy building thoughtful interfaces and bringing projects to life from concep
 Figma · Canva
 
 **Frontend**  
-HTML · CSS · JavaScript · TypeScript · React · Next.js · Tailwind CSS
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
 
 **Backend**  
-Node.js · NestJS · Python · FastAPI · REST API
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi&theme=dark" alt="Node.js, NestJS, Python, FastAPI" />
 
-**Databases**  
-PostgreSQL · MySQL · Redis
+**Databases & Tools**  
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,git,docker,githubactions,vscode&theme=dark" alt="PostgreSQL, MySQL, Redis, Git, Docker, GitHub Actions, VS Code" />
 
-**Tools**  
-Git · Docker · GitHub Actions · VS Code
+### Selected Projects
 
+- **[DSGN Sense — Interactive Map](https://github.com/bezff/dsgn-sense-2026-map)** — Interactive map with markers and an admin interface, built with React, TypeScript, Express and SQLite for DSGN Sense 2026.
+- **[Simple Telegram Blog](https://github.com/bezff/Simple-Telegram-Blog-PHP)** — Lightweight PHP blog with content publishing through a Telegram bot.
 
-### Selected projects
+### Open Source Contributions
 
-- **[DSGN Sense — Interactive Map](https://github.com/bezff/dsgn-sense-2026-map)** — Interactive map built with React, TypeScript, Express and SQLite.
-- **[Simple Telegram Blog](https://github.com/bezff/Simple-Telegram-Blog-PHP)** — Lightweight PHP blog managed through a Telegram bot.
-
-### Open source contributions
-
-* Effect — Fixed SQL migration imports for React Native Metro compatibility. (Merged)
-* Hoppscotch — Proposed backend access controls to protect team data from pending invitees. (Open PR)
+- **[Effect — PR #9157](https://github.com/Effect-TS/effect/pull/9157)** — Fixed SQL migration imports for React Native Metro compatibility. **Merged**
+- **[Hoppscotch — PR #6719](https://github.com/hoppscotch/hoppscotch/pull/6719)** — Improved backend access controls to protect team data from pending invitees. **Open PR**
 
 ---
 
@@ -63,3 +58,4 @@ Git · Docker · GitHub Actions · VS Code
 [starfolio.app](https://starfolio.app)
 
 </div>
+
