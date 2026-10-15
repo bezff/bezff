@@ -55,6 +55,7 @@ I enjoy taking projects from initial concepts to working products and contributi
 
 - **[Effect](https://github.com/Effect-TS/effect)** - [PR #9157](https://github.com/Effect-TS/effect/pull/9157) · [PR #9248](https://github.com/Effect-TS/effect/pull/9248)
 - **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** - [PR #6719](https://github.com/hoppscotch/hoppscotch/pull/6719)
+- **[FastAPI Cache](https://github.com/long2ice/fastapi-cache)** - [PR #576](https://github.com/long2ice/fastapi-cache/pull/576)
 
 ---
 
