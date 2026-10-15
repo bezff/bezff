@@ -53,9 +53,8 @@ I enjoy taking projects from initial concepts to working products and contributi
 
 ### Open Source Contributions
 
-- **[Effect — PR #9157](https://github.com/Effect-TS/effect/pull/9157)** — Fixed SQL migration imports for React Native Metro compatibility. **Merged**
-- **[Effect — PR #9248](https://github.com/Effect-TS/effect/pull/9248)** — Fixed ClickHouse migration table creation and transaction handling. **Merged**
-- **[Hoppscotch — PR #6719](https://github.com/hoppscotch/hoppscotch/pull/6719)** — Improved backend access controls to protect team data from pending invitees. **Open PR**
+- **[Effect](https://github.com/Effect-TS/effect)** - [PR #9157](https://github.com/Effect-TS/effect/pull/9157) · [PR #9248](https://github.com/Effect-TS/effect/pull/9248)
+- **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** - [PR #6719](https://github.com/hoppscotch/hoppscotch/pull/6719)
 
 ---
 
