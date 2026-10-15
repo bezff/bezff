@@ -7,7 +7,13 @@
 
 I turn ideas into digital products — from visual concepts to working applications.
 
-[Portfolio](https://starfolio.app) · [Telegram](https://t.me/Bezff) · [MAX](https://clck.ru/3WUscr)
+<p>
+  <a href="https://starfolio.app" title="Portfolio"><img src="https://www.google.com/s2/favicons?domain=starfolio.app&amp;sz=64" alt="Starfolio favicon" width="20" height="20" /> Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://t.me/Bezff" title="Telegram"><img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="20" height="20" /> Telegram</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://clck.ru/3WUscr" title="MAX"><img src="https://www.google.com/s2/favicons?domain=max.ru&amp;sz=64" alt="MAX messenger" width="20" height="20" /> MAX</a>
+</p>
 
 </div>
 
@@ -17,7 +23,7 @@ I turn ideas into digital products — from visual concepts to working applicati
 
 I work at the intersection of design and development, creating interfaces and building the systems behind them.
 
-I enjoy taking projects from an initial concept to a working product and contributing fixes to open-source software.
+I enjoy taking projects from initial concepts to working products and contributing improvements to open-source software.
 
 ### What I do
 
@@ -27,17 +33,22 @@ I enjoy taking projects from an initial concept to a working product and contrib
 
 ### Tech Stack
 
-**Design**  
-Figma · Canva
+**Design**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" alt="Figma" height="48" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" height="44" />
+</p>
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
 
 **Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi&theme=dark" alt="Node.js, NestJS, Python, FastAPI" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,fastapi&amp;theme=dark" alt="Node.js, NestJS, Python, FastAPI" />
 
 **Databases & Tools**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,git,docker,githubactions,vscode&theme=dark" alt="PostgreSQL, MySQL, Redis, Git, Docker, GitHub Actions, VS Code" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,git,docker,githubactions,vscode&amp;theme=dark" alt="PostgreSQL, MySQL, Redis, Git, Docker, GitHub Actions, VS Code" />
 
 ### Selected Projects
 
@@ -55,7 +66,6 @@ Figma · Canva
 
 **Design & code, from idea to implementation.**
 
-[starfolio.app](https://starfolio.app)
+<a href="https://starfolio.app"><img src="https://www.google.com/s2/favicons?domain=starfolio.app&amp;sz=64" alt="Starfolio favicon" width="18" height="18" /> starfolio.app</a>
 
 </div>
-
