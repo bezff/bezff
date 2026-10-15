@@ -8,11 +8,11 @@
 I turn ideas into digital products — from visual concepts to working applications.
 
 <p>
-  <a href="https://starfolio.app" title="Portfolio"><img src="https://www.google.com/s2/favicons?domain=starfolio.app&amp;sz=64" alt="Starfolio favicon" width="20" height="20" /> Portfolio</a>
+  <a href="https://starfolio.app" title="Portfolio"><img src="https://www.google.com/s2/favicons?domain=starfolio.app&amp;sz=64" alt="Starfolio" width="20" height="20" /> Portfolio</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://t.me/Bezff" title="Telegram"><img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="20" height="20" /> Telegram</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://clck.ru/3WUscr" title="MAX"><img src="https://www.google.com/s2/favicons?domain=max.ru&amp;sz=64" alt="MAX messenger" width="20" height="20" /> MAX</a>
+  <a href="https://clck.ru/3WUscr" title="MAX"><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_MAX.svg" alt="MAX" width="20" height="20" /> MAX</a>
 </p>
 
 </div>
@@ -35,11 +35,7 @@ I enjoy taking projects from initial concepts to working products and contributi
 
 **Design**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" alt="Figma" height="48" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" alt="Canva" height="44" />
-</p>
+<img src="https://skillicons.dev/icons?i=figma,ps&amp;theme=dark" alt="Figma, Adobe Photoshop" />
 
 **Frontend**  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
@@ -66,6 +62,7 @@ I enjoy taking projects from initial concepts to working products and contributi
 
 **Design & code, from idea to implementation.**
 
-<a href="https://starfolio.app"><img src="https://www.google.com/s2/favicons?domain=starfolio.app&amp;sz=64" alt="Starfolio favicon" width="18" height="18" /> starfolio.app</a>
+<a href="https://starfolio.app"><img src="https://www.google.com/s2/favicons?domain=starfolio.app&amp;sz=64" alt="Starfolio" width="18" height="18" /> starfolio.app</a>
 
 </div>
+
