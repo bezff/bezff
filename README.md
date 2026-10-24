@@ -54,7 +54,7 @@ I enjoy taking projects from initial concepts to working products and contributi
 ### Open Source Contributions
 
 
-- **[Effect](https://github.com/Effect-TS/effect)** — 8 merged PRs: [#9157](https://github.com/Effect-TS/effect/pull/9157) · [#9248](https://github.com/Effect-TS/effect/pull/9248) · [#9293](https://github.com/Effect-TS/effect/pull/9293) · [#9447](https://github.com/Effect-TS/effect/pull/9447) · [#9453](https://github.com/Effect-TS/effect/pull/9453) · [#9614](https://github.com/Effect-TS/effect/pull/9614) · [#9758](https://github.com/Effect-TS/effect/pull/9758) · [#9759](https://github.com/Effect-TS/effect/pull/9759)
+- **[Effect](https://github.com/Effect-TS/effect)** — [PR #9157](https://github.com/Effect-TS/effect/pull/9157) · [PR #9248](https://github.com/Effect-TS/effect/pull/9248) · [PR #9293](https://github.com/Effect-TS/effect/pull/9293) · [PR #9447](https://github.com/Effect-TS/effect/pull/9447) · [PR #9453](https://github.com/Effect-TS/effect/pull/9453) · [PR #9614](https://github.com/Effect-TS/effect/pull/9614) · [PR #9758](https://github.com/Effect-TS/effect/pull/9758) · [PR #9759](https://github.com/Effect-TS/effect/pull/9759)
 - **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** - [PR #6719](https://github.com/hoppscotch/hoppscotch/pull/6719)
 - **[FastAPI Cache](https://github.com/long2ice/fastapi-cache)** - [PR #576](https://github.com/long2ice/fastapi-cache/pull/576)
 
